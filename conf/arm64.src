@@ -1,5 +1,5 @@
-SOURCE_URL=https://github.com/wekan/wekan/releases/download/v6.30/wekan-6.30-arm64.zip
-SOURCE_SUM=ae0049a192976ad49d31e8e064c028f0c7c4422764ed7b2f9952ddb52a34ed9d
+SOURCE_URL=https://releases.wekan.team/dev/gantt-gpl/wekan-gantt-gpl-x64-5.04.zip
+SOURCE_SUM=b340cc226f50dbdbd7d096ae84b8b79c13d41558b1669f7677e881765543cc8e
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=zip
 SOURCE_IN_SUBDIR=true
